@@ -20,7 +20,7 @@ const Testimonial = () => {
             </div>
             <div className='text-end'>
                 {data.subtitle.map((text, index) => (
-                  <h2 key={index} className='md:text-xl text-sm font-normal'>{text}</h2>
+                  <h2 key={index} className='md:text-xl font-normal'>{text}</h2>
                 ))}
             </div>
         </div>
