@@ -1,0 +1,34 @@
+{
+    "title": "Sustainability Features",
+    "subtitle": [
+      "Our Homes Combine Cutting Edge Sustainable Technology",
+      "With Luxurious Living"
+    ],
+    "cards": [
+      {
+        "id": 1,
+        "icon": "fa-solid fa-leaf",
+        "title": "Solar Energy Systems",
+        "description": "Advanced Photovotaic panels with 98% efficiency rating, integrated with Tesla powerwall storage. Reduces energy up to 80% annually while providing clean renewable power 24/7."
+      },
+      {
+        "id": 2,
+        "icon": "fa-solid fa-leaf",
+        "title": "Smart Home Integration",
+        "description": "AI-Powermode home management system that optimizes energy usage through predictive analytics. Features automated climate control, smart lighting, and real-time energy monitoring via mobile app."
+      },
+      {
+        "id": 3,
+        "icon": "fa-solid fa-leaf",
+        "title": "Smart Home Integration",
+        "description": "AI-Powermode home management system that optimizes energy usage through predictive analytics. Features automated climate control, smart lighting, and real-time energy monitoring via mobile app."
+      },
+      {
+        "id": 4,
+        "icon": "fa-solid fa-leaf",
+        "title": "Smart Home Integration",
+        "description": "AI-Powermode home management system that optimizes energy usage through predictive analytics. Features automated climate control, smart lighting, and real-time energy monitoring via mobile app."
+      }
+    ]
+  }
+  

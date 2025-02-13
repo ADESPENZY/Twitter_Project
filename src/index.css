@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Pacifico&display=swap');
+@import "tailwindcss";
+
+body{
+  background: #ECF3ED; /* Light green */
+}
+
+.container{
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+
+
+.blob-1{
+  @apply  w-80 h-80 bg-green-800 absolute top-20 left-20 -z-10 blur-2xl opacity-30 overflow-hidden rounded-full
+}
+
+.blob-2{
+  @apply  w-80 h-80 bg-green-800 absolute bottom-20 right-120 -z-10 blur-2xl opacity-30 overflow-hidden rounded-full
+}
+
+

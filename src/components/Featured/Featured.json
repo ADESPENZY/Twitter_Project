@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Eko Villa 1",
+      "price": "$1,200,000",
+      "image": "prop1.jpg",
+      "features": ["Solar Powered", "Smart Home"]
+    },
+    {
+      "id": 2,
+      "name": "Eko Villa 2",
+      "price": "$1,500,000",
+      "image": "prop2.jpg",
+      "features": ["Smart Home", "Ocean View"]
+    },
+    {
+      "id": 3,
+      "name": "Eko Villa 3",
+      "price": "$1,800,000",
+      "image": "prop3.jpg",
+      "features": ["Solar Powered", "Smart Home"]
+    },
+    {
+      "id": 4,
+      "name": "Eko Villa 4",
+      "price": "$2,000,000",
+      "image": "prop4.jpg",
+      "features": ["Smart Home", "Garden"]
+    }
+  ]
+  
