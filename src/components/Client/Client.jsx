@@ -50,7 +50,7 @@ const Client = () => {
     }, [moveBy]);
 
     return (
-        <div className='relative w-[70%] mx-auto mt-15'>
+        <div className='relative w-[80%] mx-auto mt-15'>
             <div className="mb-6">
                 <h2 className="text-2xl md:text-3xl font-semibold">What Our Client Says</h2>
                 <div className="flex items-center">
