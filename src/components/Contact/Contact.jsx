@@ -34,7 +34,7 @@ const Contact = () => {
     };
     
   return (
-    <div className='contact mt-15 mb-10 w-[80%] mx-auto'>
+    <div className='contact mt-15 mb-10 w-[90%] mx-auto'>
         <div className="mb-6 flex flex-col items-end">
             {/* Title aligned to the right */}
             <h2 className="text-2xl md:text-3xl font-semibold">Contact Us</h2>
