@@ -54,9 +54,9 @@ const Client = () => {
             <div className="mb-6">
                 <h2 className="text-2xl md:text-3xl font-semibold">What Our Client Says</h2>
                 <div className="flex items-center">
-                    <div className="border-2 md:w-1/3 w-[80%] "></div>
-                    <div className="w-10 h-10 rounded-full border-2 flex items-center justify-center">
-                        <i className="fa-solid fa-arrow-right"></i>
+                    <div className="border border-gray-400 md:w-1/3 w-[80%] "></div>
+                    <div className="w-10 h-10 rounded-full border border-gray-400 flex items-center justify-center">
+                        <i className="fa-solid fa-arrow-right text-gray-400"></i>
                     </div>
                 </div>
             </div>

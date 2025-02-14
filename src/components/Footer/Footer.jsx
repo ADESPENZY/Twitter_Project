@@ -7,7 +7,7 @@ const Footer = () => {
         <p className="text-gray-600 mt-2 text-center">
             Get the latest Eco-Living tips and property updates.
         </p>
-        <div className="mt-4 flex flex-col md-flex-row space-y-2 md:space-x-2">
+        <div className="mt-4 flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-2">
             <input 
                 type="email" 
                 placeholder="Enter Your Email" 

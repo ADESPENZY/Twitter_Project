@@ -42,12 +42,12 @@ const Contact = () => {
             {/* Line and Circle aligned to the right */}
             <div className="relative flex items-center w-full justify-end">
                 {/* Circle with Arrow */}
-                <div className="relative z-10 w-10 h-10 rounded-full border-2 flex items-center justify-center">
-                  <i className="fa-solid fa-arrow-left"></i>
+                <div className="relative z-10 w-10 h-10 rounded-full border border-gray-400 flex items-center justify-center">
+                  <i className="fa-solid fa-arrow-left text-gray-400"></i>
                 </div>
 
                 {/* Right Line (Make sure it fills the space) */}
-                <div className="w-[50%] md:w-1/3 border-2"></div>
+                <div className="w-[50%] md:w-1/3 border border-gray-400"></div>
             </div>
         </div>
         <div className='flex flex-col md:flex-row md:items-center justify-between space-y-8 '>

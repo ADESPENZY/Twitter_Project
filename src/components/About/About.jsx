@@ -7,7 +7,7 @@ const About = () => {
         <div className=''>
             <h1 className='text-center text-4xl md:text-8xl font-bold'>HOW IT WORKS?</h1>
             <div className="relative z-10 space-y-5 -mt-2 md:-mt-5">
-                <div className="p-7 bg-white rounded-2xl shadow-md shadow-green-800 cursor-pointer">
+                <div className="p-7 bg-white rounded-2xl shadow-md border-2 border-green-800 cursor-pointer">
                     <div className="flex justify-between items-center">
                         <h3 className="mb-4 font-bold text-xl">Browse</h3>
                         <h2 className="bg-green-200 inline-block p-2 font-bold rounded-full">01</h2>
@@ -22,7 +22,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div className="p-7 bg-white rounded-2xl shadow-md shadow-green-800 group cursor-pointer">
+                <div className="p-7 bg-white rounded-2xl border-2 border-green-800 group cursor-pointer">
                     <div className="flex justify-between items-center">
                         <h3 className="mb-4 font-bold text-xl">Visit</h3>
                         <h2 className="bg-green-200 inline-block p-2 font-bold rounded-full">02</h2>
@@ -37,7 +37,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div className="p-7 bg-white rounded-2xl shadow-md shadow-green-800 group cursor-pointer">
+                <div className="p-7 bg-white rounded-2xl border-2 border-green-800 group cursor-pointer">
                     <div className="flex justify-between items-center">
                         <h3 className="mb-4 font-bold text-xl">Schedule</h3>
                         <h2 className="bg-green-200 inline-block p-2 font-bold rounded-full">03</h2>
@@ -52,7 +52,7 @@ const About = () => {
                     </div>
                 </div>
 
-                <div className="p-7 bg-white rounded-2xl shadow-md shadow-green-800 group cursor-pointer">
+                <div className="p-7 bg-white rounded-2xl border-2 border-green-800 group cursor-pointer">
                     <div className="flex justify-between items-center">
                         <h3 className="mb-4 font-bold text-xl">Move In</h3>
                         <h2 className="bg-green-200 inline-block p-2 font-bold rounded-full">04</h2>
